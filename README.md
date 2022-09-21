@@ -9,6 +9,7 @@ In the project directory, you can run:
 ### `install node modules`
 
 cd datatable
+
 npm i
 
 ### `Run the Project`
