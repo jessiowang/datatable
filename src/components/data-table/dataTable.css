@@ -13,5 +13,10 @@ th {
 }
 
 .hover:hover {
-  background-color: #219785;
+  background-color: #61dafb;
 }
+
+.selected {
+  background-color: aquamarine;
+}
+
